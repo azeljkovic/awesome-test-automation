@@ -6,7 +6,8 @@
 
 ## JavaScript
 [jest](https://jestjs.io/)  
-[mocha](https://mochajs.org/)
+[mocha](https://mochajs.org/)  
+[karma](https://karma-runner.github.io/)
 
 ## Java
 [junit](https://junit.org/)  
@@ -18,4 +19,5 @@
 
 ## PHP
 [phpunit](https://phpunit.de/)  
-[codeception](https://codeception.com/)
+[codeception](https://codeception.com/)  
+[pest](https://pestphp.com/)
