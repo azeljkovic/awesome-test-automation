@@ -27,8 +27,15 @@
 &nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/karma)
 
 ## Java
-[junit](https://junit.org/)  
-[testNG](https://testng.org/doc/)  
+*JUnit:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://junit.org/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://junit.org/junit5/docs/current/user-guide/)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/junit-team/junit5/)  
+<br/><br/>
+*TestNG:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://testng.org/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://testng.org/doc/documentation-main.html)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/cbeust/testng)   
 
 ## C#
 [nunit](https://nunit.org/)  
