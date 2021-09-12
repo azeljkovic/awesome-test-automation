@@ -38,10 +38,28 @@
 &nbsp;&nbsp;&nbsp;[GitHub](https://github.com/cbeust/testng)   
 
 ## C#
-[nunit](https://nunit.org/)  
-[xunit](https://xunit.net/)
+*NUnit:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://nunit.org/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://docs.nunit.org/)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/nunit/nunit) 
+<br/><br/>
+*XUnit:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://xunit.net/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://xunit.net/#documentation)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/xunit/xunit)  
 
 ## PHP
-[phpunit](https://phpunit.de/)  
-[codeception](https://codeception.com/)  
-[pest](https://pestphp.com/)
+*PHPUnit:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://phpunit.de/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://phpunit.readthedocs.io/)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/sebastianbergmann/phpunit/) 
+<br/><br/>
+*Codeception:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://codeception.com/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://codeception.com/docs/)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/codeception/codeception) 
+<br/><br/>
+*Pest:*  
+&nbsp;&nbsp;&nbsp;[Homepage](https://pestphp.com/)  
+&nbsp;&nbsp;&nbsp;[Documentation](https://pestphp.com/docs/)  
+&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/pestphp/pest) 
